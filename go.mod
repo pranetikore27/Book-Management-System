@@ -1,4 +1,4 @@
-module github.com/praneti/Book-Management-System
+module github.com/pranetikore27/Book-Management-System
 
 go 1.24.6
 

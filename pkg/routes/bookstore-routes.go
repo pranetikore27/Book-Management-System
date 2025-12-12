@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/praneti/book-management-system/pkg/controllers"
+	"github.com/pranetikore27/Book-Management-System/pkg/controllers"
 )
 
 var RegisterBookStoreRoutes = func(router *mux.Router) {
